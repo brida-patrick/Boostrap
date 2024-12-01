@@ -1,0 +1,80 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    box-shadow: -1px 7px 6px 7px rgba(198, 195, 207, 0.788);
+    
+    
+   
+    
+
+}
+.ccnav{
+    background-color:cadetblue;
+    color: aliceblue;
+    text-transform: capitalize;
+}
+
+
+.header{
+    background: url(./photos/stade1.jpg) center center no-repeat fixed;
+    height: 800px;
+    border-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header h1{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 400;
+}
+.header p{
+    color: aliceblue;
+    font-weight: bold;
+    font-size:large;
+
+}
+.bodi1{
+    background-color: transparent;
+    background: url(./photos/resto.jpg) center center fixed no-repeat;
+    width: 100%;
+}
+.bodi2{
+    background: url(./photos/resto.jpg) center center no-repeat;
+    width: 100%;
+}
+.bodi2 H2{
+    font-weight: bold;
+    font-size:400 ;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+.copyrigthIcons{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    align-content: center;
+    
+
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    
+    
+    
+    
+    
+}
+.copyrigth p{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    padding-left: -150px;
+}
+
+.icon p {
+    padding:20px ;
+}
